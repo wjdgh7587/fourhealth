@@ -32,11 +32,6 @@ public class GraphResource {
     private GraphQL graphQL;
 
     @PostConstruct
-    public void loadTesting(){
-        log.info("Hello This is GraphQL test Project from the ");
-    }
-
-//    @PostConstruct
     public void loadSchema(){
 
         log.info("The GraphQL loadSchema ##########");
