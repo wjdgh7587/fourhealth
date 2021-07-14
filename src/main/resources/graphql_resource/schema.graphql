@@ -1,11 +1,10 @@
-schema {
-    query: Query
-    mutation: Mutation
-}
-type Query{
-
-}
-
-type Mutation{
-
-}
+#schema {
+#    query: Query
+#    mutation: Mutation
+#}
+#type Query{
+#    dummy : String
+#}
+#type Mutation{
+#    dummy : String
+#}
