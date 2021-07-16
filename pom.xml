@@ -58,6 +58,18 @@
 			<version>2.2.5</version>
 		</dependency>
 
+		<!-- jsoup, json -->
+		<dependency>
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.12.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
 		<!-- 그래프큐엘 관련 옵션 처리	-->
 		<dependency>
 			<groupId>com.graphql-java</groupId>
